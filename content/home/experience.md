@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: Research, Management, Communication, & Instruction
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,29 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: ''
+    company: Ravenscraft Research
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Indiana
+    date_start: '2022'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing
+        * Patenting
+        * Leasing
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Medical Neuroscience PhD Candidate
+    company: Indiana University School of Medicine - Stark Neuroscience Research Institute
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: ''
+    location: Indiana
+    date_start: '2018-08-01'
+    date_end: ''
+    description: Researched neurotrauma with Dr. Xiao-Ming Xu and Dr. Naikui Liu, mainly mitochondria-targeted neuroprotective therapeutics; and presented findings in writing, as well as poster presentations. Assumed some lab management duties, including maintaining/ordering supplies, facilitating inspections, and formulating drug cocktails. On track to defend in 2023.
+    
 design:
   columns: '2'
 ---
