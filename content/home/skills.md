@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Efforts
+title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -18,11 +18,11 @@ subtitle:
 feature:
 - description: 50%
   icon: ''
-  icon_pack: fab
+  icon_pack: ''
   name: Experiments
 - description: 40%
   icon: ''
-  icon_pack: fas
+  icon_pack: ''
   name: Communication
 - description: 10%
   icon: camera-retro
