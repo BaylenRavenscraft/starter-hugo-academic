@@ -23,10 +23,16 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: 'Exploring propriospinal neuron-mediated neural circuit plasticity using recombinant viruses after spinal cord injury'
+    category: 'Experimental Neurology'
+    publication_type: 'Scientific Review Article'
+    author: 'Lingxiao Deng, Baylen Ravenscraft, Xiao-Ming Xu'
+    exclude_featured: true
+    
+    tag: 'Restoring mitochondrial cardiolipin homeostasis reduces cell death and promotes recovery after spinal cord injury'
+    category: 'Cell Death and Disease'
+    publication_type: 'Scientific Research Article'
+    author: 'Nai-Kui Liu, Ling-Xiao Deng, Miao Wang, Qing-Bo Lu, Chunyan Wang, Xiangbing Wu, Wei Wu, Ying Wang, Wenrui Qu, Qi Han, Yongzhi Xia, Baylen Ravenscraft, Jin-Lian Li, Si-Wei You, Peter Wipf, Xianlin Han, & Xiao-Ming Xu'
     exclude_featured: true
 design:
   # Choose a view for the listings:
